@@ -1,2 +1,2 @@
 # stocksforeveryone.github.io
-This hosts 
+This hosts pages for the blog
